@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
               "ToolTip": "D:\\visualbasic\\SlidelyFormApp\\ViewSubmissionsForm.vb",
               "RelativeToolTip": "ViewSubmissionsForm.vb",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAcwI0AAABFAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAcwIQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-20T09:35:46.334Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Form1.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-20T09:25:53.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T09:25:53.885Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "CreateSubmissionForm.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-20T05:53:30.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T05:53:30.211Z"
             },
             {
               "$type": "Document",
@@ -94,15 +92,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SlidelyFormApp",
+              "Title": "SlidelyFormApp.vbproj",
               "DocumentMoniker": "D:\\visualbasic\\SlidelyFormApp\\SlidelyFormApp.vbproj",
               "RelativeDocumentMoniker": "SlidelyFormApp.vbproj",
               "ToolTip": "D:\\visualbasic\\SlidelyFormApp\\SlidelyFormApp.vbproj",
               "RelativeToolTip": "SlidelyFormApp.vbproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2024-06-20T06:14:41.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T06:14:41.715Z"
             },
             {
               "$type": "Document",
